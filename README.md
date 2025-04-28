@@ -82,6 +82,60 @@ This project has helped strengthen my skills in preparing datasets efficiently a
 ## 🏷️ Tags
 `#Python` `#Pandas` `#DataAnalysis` `#DataScience` `#Learning` `#SoftwareEngineering` `#DataCleaning` `#DataPreparation` `#DataTransformation` `#MachineLearningPrep`
 
+# 📊 Data Visualization Practice with Matplotlib and Pandas
+
+This repository contains my practice and learning progress on **Data Visualization** using **Matplotlib** and **Pandas** in Python.
+
+---
+
+## 🚀 What I Practiced
+
+- **Bar Charts**  
+  - Comparing popularity of Harry Potter parts
+  - Visualizing expenses based on payment modes
+
+- **Line Charts**  
+  - Tracking daily sales data
+  - Analyzing total amounts by category
+
+- **Scatter Plots**  
+  - Random data points with colormap and varying sizes
+  - Employee Age visualization
+
+- **Pie Charts**  
+  - Market share among mobile brands
+  - Payment mode distribution
+
+- **Box Plots & Violin Plots**  
+  - Statistical distribution (Age, Salary)
+
+- **Histograms**  
+  - Frequency distribution of expenses and age
+
+- **Stem Plots & Step Plots**  
+  - Sharp change visualization
+  - Discrete point tracking
+
+- **Stack Plots**  
+  - Showing layered weekly progress
+
+- **Subplots**  
+  - Displaying multiple plots in one figure
+
+- **Saving Figures**  
+  - Saving plots as `.png` images using `savefig()`
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Matplotlib
+- Pandas
+- NumPy
+
+---
+
 
 ## 💻 How to Run
 
