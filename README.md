@@ -135,6 +135,82 @@ This repository contains my practice and learning progress on **Data Visualizati
 - NumPy
 
 ---
+# 📊 Seaborn Visualization Practice in Python
+
+This repository showcases my hands-on practice with **Seaborn**, a powerful Python data visualization library built on top of Matplotlib. I’ve covered a wide range of plot types, including both categorical and numerical data visualizations.
+
+---
+
+## ✅ What’s Included
+
+### 📈 Line Plots
+- Visualizing NOP over days
+- Multivariate line plots with `hue` and `style` using Excel data
+
+### 📊 Bar Plots
+- Tips dataset: day-wise tip comparison by gender
+- Custom palette, order, and error bars
+
+### 🟦 Histograms
+- KDE plots with age and tip distribution
+- Custom bin sizes and multiple datasets
+
+### 🔵 Scatter Plots
+- Relationship between bill and tip
+- Excel-based scatter with `size`, `hue`, and `legend` placement
+
+### 🌡️ Heatmaps
+- Pivot tables to analyze average total bills
+- Job title-wise average salary visualization
+
+### 📌 Count Plots
+- Frequency of categorical values (day, department)
+- With hue-based grouping
+
+### 🎻 Violin Plots
+- Distribution of total bill by day and gender
+- Bonus % violin visualization
+
+### 🔗 Pair Plots
+- Pairwise relationships (Tips dataset, Iris dataset)
+- Diagonal types and hue separation
+
+### ☑️ Strip and Swarm Plots
+- Comparing categorical values with total bill
+- Overlap handling with `jitter` and `dodge`
+
+### 📦 Box Plots
+- Outlier visualization
+- Tips data grouped by day and sex
+
+### 🐱 Cat Plots
+- Unified interface for multiple plot types (bar, violin, etc.)
+- Quick comparison using `kind` parameter
+
+### 🎨 Style & Color Palettes
+- Theme customization with `set_style`
+- Color palettes like `GnBu`, `spring`, `Paired`, `viridis`
+
+### 🪞 Multiple Plots with FacetGrid
+- Plot grids split by time or day
+- Combining plots with mapping functions
+
+### 🔄 Relational Plots
+- Powerful `relplot` to visualize multivariate relationships with multiple aesthetics
+
+### 🧬 KDE Plots
+- Kernel Density Estimation
+- Custom fill, stack, and hue options
+
+---
+
+## 🛠 Libraries Used
+
+- Python
+- Seaborn
+- Pandas
+- Matplotlib
+
 
 
 ## 💻 How to Run
